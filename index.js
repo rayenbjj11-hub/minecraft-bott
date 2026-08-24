@@ -12,7 +12,7 @@ console.log(`[+] Web server listening on port ${PORT}`);
 
 // ==================== [ إعدادات السيرفر ] ====================
 const CONFIG = {
-host: 'ray_x111.aternos.me', // IP السيرفر متاعك
+host: 'llama.aternos.host', // IP السيرفر متاعك
 port: 33517, // البورت (تأكد منه من Aternos)
 username: 'Player_Alex99', // اسم البوت
 owner: 'YOUR_MINECRAFT_NAME', // اكتب اسم حسابك أنت في اللعبة
