@@ -1,0 +1,13 @@
+{
+"name": "minecraft-bot",
+"version": "1.0.0",
+"description": "24/7 Anti-AFK & Anti-Ban Minecraft Bot",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"mineflayer": "^4.20.1"
+}
+}
+
